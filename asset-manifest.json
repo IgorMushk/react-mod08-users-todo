@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/react-mod08-users-todo/static/css/main.7acaea2f.css",
-    "main.js": "/react-mod08-users-todo/static/js/main.2e69ca47.js",
+    "main.css": "/react-mod08-users-todo/static/css/main.5840f50d.css",
+    "main.js": "/react-mod08-users-todo/static/js/main.d0dd498c.js",
+    "static/js/266.99d2d334.chunk.js": "/react-mod08-users-todo/static/js/266.99d2d334.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/react-mod08-users-todo/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.869b12f7.chunk.js": "/react-mod08-users-todo/static/js/40.869b12f7.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/react-mod08-users-todo/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.993eb2ee.chunk.js": "/react-mod08-users-todo/static/js/635.993eb2ee.chunk.js",
+    "static/css/853.40e66e5b.chunk.css": "/react-mod08-users-todo/static/css/853.40e66e5b.chunk.css",
+    "static/js/853.41bb1ea1.chunk.js": "/react-mod08-users-todo/static/js/853.41bb1ea1.chunk.js",
+    "static/js/270.1d03d2bc.chunk.js": "/react-mod08-users-todo/static/js/270.1d03d2bc.chunk.js",
     "index.html": "/react-mod08-users-todo/index.html",
-    "main.7acaea2f.css.map": "/react-mod08-users-todo/static/css/main.7acaea2f.css.map",
-    "main.2e69ca47.js.map": "/react-mod08-users-todo/static/js/main.2e69ca47.js.map"
+    "main.5840f50d.css.map": "/react-mod08-users-todo/static/css/main.5840f50d.css.map",
+    "main.d0dd498c.js.map": "/react-mod08-users-todo/static/js/main.d0dd498c.js.map",
+    "266.99d2d334.chunk.js.map": "/react-mod08-users-todo/static/js/266.99d2d334.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/react-mod08-users-todo/static/css/40.1e05f24e.chunk.css.map",
+    "40.869b12f7.chunk.js.map": "/react-mod08-users-todo/static/js/40.869b12f7.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/react-mod08-users-todo/static/css/635.e2937cc9.chunk.css.map",
+    "635.993eb2ee.chunk.js.map": "/react-mod08-users-todo/static/js/635.993eb2ee.chunk.js.map",
+    "853.40e66e5b.chunk.css.map": "/react-mod08-users-todo/static/css/853.40e66e5b.chunk.css.map",
+    "853.41bb1ea1.chunk.js.map": "/react-mod08-users-todo/static/js/853.41bb1ea1.chunk.js.map",
+    "270.1d03d2bc.chunk.js.map": "/react-mod08-users-todo/static/js/270.1d03d2bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.2e69ca47.js"
+    "static/css/main.5840f50d.css",
+    "static/js/main.d0dd498c.js"
   ]
 }
